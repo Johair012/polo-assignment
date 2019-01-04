@@ -1,0 +1,178 @@
+header{
+	background: url('../images/web-design-2906159__340.jpg');
+	background-repeat: no-repeat;
+	
+	background-size: cover;
+	
+
+}
+
+.top{}
+.vh-100{
+min-height: 100vh;
+}
+.rox{padding-left: 150px;}
+.nav-link{
+	font-size: 12px;
+	margin-left:18px;
+}
+
+.head-content a{
+border: 2px solid white;
+    color: white;
+    padding: 5px 10px;
+    font-size: small;
+    text-decoration: none;
+}
+.part-2{
+	background: #893030;
+	color: solid white;
+}
+.third-part{
+	background: #251E26;
+	min-height: 75vh;
+}
+.small-text{
+	color: #716868;
+}
+.text-bold{
+	color: #505250;
+}
+
+.icon-box a{
+	color: black;
+	
+
+}
+.icon-box a i{
+	border: 2px solid black;
+font-size: 20px;
+padding: 10px;
+border-radius: 50px;
+
+
+}
+
+
+.round-edge{
+	background: #1ABC9C;
+	padding: 1px 15px;
+	position: absolute;
+	color: white;
+	border-radius: 10px;
+	right: 20px;
+	top: 20px;
+	
+
+}
+.imgage-sec img{
+	position: relative;
+
+}
+.imgage-sec{
+	background: white;
+	margin-bottom: 100px;
+}
+.imgage-sec a{
+	color: #1ABC9C;
+	text-decoration: none;
+}
+.meat-team{
+	background: #DBC79B;
+}
+.social-media{
+	padding: 5px;
+	border-radius: 100px;
+	width: 100%;
+	height: 100%;
+	
+}
+.social-media i{
+	margin-bottom: 5px;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+        
+}
+
+
+.touch-section{
+    background-image: url(../images/paper-1990111__340.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+.touch{
+    position: absolute;
+    background: #ededf47a;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 40px 20px;
+    box-shadow: 0 0 50px grey;
+    width: 35%;
+}
+.touch h1{
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 900;
+}
+
+
+.touch form{}
+.touch form input{
+    width: 100%;
+    border: 1px solid #969696;
+    padding: 10px 12px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+
+
+.send-btn{
+    background: #148F77;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 18px !important;
+}
+
+.footer-nav{
+	background:url(../images/world-map-146505_960_720.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+    height:50vh;
+    
+
+    
+}
+.list-icon {
+list-style: none;
+padding-left: 0;
+}
+.list-icon li{
+margin-bottom: 10px;
+    margin-left: 20px;
+}
+.list-icon i{
+font-size: 15px;
+    margin-right: 14px;
+    margin-left: -20px;
+}
+.post-thumbnil-content a{
+	color: black;
+}
